@@ -2,6 +2,6 @@ header{
     margin: 10%;
     width: 100%;
     position: absolute;
-    z-index: 100;
+    z-index: 1000;
     word-wrap: break-word;
 }
